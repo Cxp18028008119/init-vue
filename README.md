@@ -17,6 +17,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-npm run build test  打包测试环境的代码
-npm run build prod  打包正式环境
+npm run build test  打包测试环境的代码1
+npm run build prod  打包正式环境1
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
